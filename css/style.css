@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #efeeee;
+    
+}
+
+
+/**************************************
+    Helper
+**************************************/
+.section {
+    padding: 100px 0;
+}
+
+.custom-font-size {
+    font-size: 48px;
+}
+
+.custom-font-weight {
+    font-weight: 800;
+}
+
+
+/**************************************
+    About
+**************************************/
+
+#about h2 {
+    font-size: 40px;
+    
+}
+
+#about p {
+    font-size: 30px;
+}
+
+
+
+/**************************************
+     CTA
+**************************************/
+
+    
+
+#accordionExample p {
+    font-size: 18px;
+}
+
+/**************************************
+    Services
+**************************************/
+#services p {
+    font-size: 18px;
+}
+
+#services .card img {
+    width: 64px;
+    height: 64px;
+}
+
+#services .card-body h5 {
+    font-size: 30px;
+}
+
+/**************************************
+     Contact
+**************************************/
+#contact {
+    background-color: #efeeee;
+}
+
+/**************************************
+     Footer
+**************************************/
+
+
+
+.footer {
+    background-color: #050505;
+    color: #fff !important;
+  }
+  
+
+
